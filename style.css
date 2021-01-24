@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    list-style: none;
+}
+
+
+h1{
+    font-size: 80px;
+    font-weight: 80px;
+    font-family: "Audiowide";
+}
+
+
+body{
+background:whitesmoke;
+color: rgb(0, 0, 0);
+font-family: "Audiowide";
+margin-left: 5px;
+margin-right: 5px;
+margin-bottom: 5px;
+margin-top: 5px;
+}
+
+
+.sayfa{
+    width: auto;
+    height: auto; 
+}
+
+
+.sagsekme{
+    width: 200px;
+    float: right;
+    right: 0px;
+    margin-top: 40px;
+    position: fixed;
+}
+
+
+.icerik{
+max-width: 87%;
+}
+
+
+.üstsekme{
+    float: top;
+    height: 100px;
+    background: whitesmoke;
+    font-size:80px;
+    font-family:Audiowide;
+    padding-bottom:  20px;
+    width: auto;
+}
+
+
+.kurtanıt{
+font-size: 35px;
+margin-top: 150px;
+margin-right: 50px;
+}
+
+
+.ilet{
+    padding-top:5% ;
+    margin: auto;
+    background: whitesmoke;
+    width: 550px;
+    height: 550px;
+    font-size: 35px;
+}
+
+
+.button{
+color:black;
+font-size: 25px;
+font-family: Audiowide;
+background: whitesmoke;
+margin-top: 35px;
+margin-bottom: 60px;
+margin-left: 20px;
+margin-right: 20px;
+outline: none;
+}
+
+
+.bt{
+color: black;
+font-size: 25px;
+font-family: Audiowide;
+background: whitesmoke;
+margin-top: 55px;
+margin-bottom: 15px;
+margin-left: 40px;
+margin-right: 40px;
+float: left;
+outline: none;
+}
+
+
+:focus::-webkit-input-placeholder {
+
+    color: transparent
+    
+    }
+    
+    :focus::-moz-placeholder {
+    
+    color: transparent
+    
+    }
+    
+    :focus:-moz-placeholder {
+    
+    color: transparent
+    
+    }
+    
+    :focus:-ms-input-placeholder {
+    
+    color: transparent
+    
+    }
+
+
+    .p{
+        font-size: 23px;
+    }
